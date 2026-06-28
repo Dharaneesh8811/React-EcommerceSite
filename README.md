@@ -2,6 +2,9 @@
 
 A modern and responsive E-Commerce web application built using React.js. This project provides a complete online shopping experience with product browsing, category filtering, wishlist management, cart functionality, checkout process, customer reviews, and responsive design.
 
+## Live Project
+https://react-ecommerce-site-pink.vercel.app/
+
 ## Features
 
 * Responsive UI for desktop and mobile devices
