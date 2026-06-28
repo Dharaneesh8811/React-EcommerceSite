@@ -1,4 +1,4 @@
-import techProducts from "./techProducts";
+import techProducts from "./techproducts";
 import sportsProducts from "./sportsProducts";
 
 export const customProducts = [

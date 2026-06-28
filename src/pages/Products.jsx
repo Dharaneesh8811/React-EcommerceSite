@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import ProductCard from "../components/ProductCard";
 import { getProducts } from "../services/api";
-import techProducts from "../data/techProducts";
+import techProducts from "../data/techproducts";
 import sportsProducts from "../data/sportsProducts";
 import "./Products.css";
 

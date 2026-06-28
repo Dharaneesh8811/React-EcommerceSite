@@ -3,7 +3,7 @@ import { useParams, useNavigate  } from "react-router-dom";
 import { getProduct } from "../services/api";
 import { CartContext } from "../context/CartContext";
 import { customProducts } from "../data/allProducts";
-import techProducts from "../data/techProducts";
+import techProducts from "../data/techproducts";
 import sportsProducts from "../data/sportsProducts";
 import RecommendedProducts from "../components/RecommendedProducts";
 import "./ProductDetails.css";
