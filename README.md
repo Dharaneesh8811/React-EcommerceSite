@@ -1,27 +1,36 @@
-E-Commerce Web Application (React)
+# React E-Commerce Website
 
-A fully responsive and feature-rich e-commerce web application built using React. This project provides a smooth shopping experience with modern UI design and essential shopping functionalities like cart management, wishlist, product browsing, and order placement.
+A modern and responsive E-Commerce web application built using React.js. This project provides a complete online shopping experience with product browsing, category filtering, wishlist management, cart functionality, checkout process, customer reviews, and responsive design.
 
-Key Features
+## Features
 
-🖥️ Modern and attractive UI design
-🛍️ Product listing with categories
-🔍 Search products functionality
-❤️ Wishlist feature
-🛒 Add to Cart system
-📄 Product details page
-👀 Recently viewed products section
-💳 Checkout and Buy functionality
-🎉 Order success confirmation page
-💾 Local Storage support for cart & wishlist persistence
+* Responsive UI for desktop and mobile devices
+* Product listing and detailed product pages
+* Search and category filtering
+* Add to Cart and Buy Now functionality
+* Wishlist management
+* Product color, size, and quantity selection
+* Checkout and Order Success pages
+* Customer Reviews section
+* Recently Viewed Products
+* Recommended Products
+* Mobile-friendly navigation menu
+* Local Storage support for persistent cart and wishlist
 
-Tech Stack
+## Technologies Used
 
-. React JS
-. JavaScript (ES6+)
-. HTML5 & CSS3
-. Local Storage API
+* React.js
+* React Router DOM
+* Context API
+* CSS3
+* Local Storage
+* DummyJSON API
 
-Project Purpose
+## Future Improvements
 
-This project was built to improve frontend development skills, especially in React, state management, component-based architecture, and building real-world e-commerce features.
+* User Authentication
+* Payment Gateway Integration
+* Order History
+* Dark/Light Theme
+* Product Rating System
+* Invoice Download
