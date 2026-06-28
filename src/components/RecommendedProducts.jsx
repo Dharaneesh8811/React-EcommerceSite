@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 import ProductCard from "./ProductCard";
-import techProducts from "../data/techProducts";
+import techProducts from "../data/techproducts";
 import sportsProducts from "../data/sportsProducts";
 
 function RecommendedProducts({ currentProduct, products }) {
