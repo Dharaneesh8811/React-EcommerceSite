@@ -1,0 +1,20 @@
+/* :root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --text: #e2e8f0;
+  --muted: #94a3b8;
+  --primary: #38bdf8;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+} */
+
+body {
+  background: #f8fafc;
+  color: #1e293b;
+  font-family: "Poppins", sans-serif;
+}
