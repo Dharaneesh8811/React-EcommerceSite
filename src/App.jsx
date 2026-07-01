@@ -7,12 +7,13 @@ import Home from "./pages/Home";
 import Products from "./pages/Products";
 import ProductDetails from "./pages/ProductDetails";
 import Cart from "./pages/Cart";
-import Login from "./pages/Login";
 import Checkout from "./pages/Checkout";
 import Wishlist from "./pages/Wishlist";
 import OrderSuccess from "./pages/OrderSuccess";
 import Categories from "./pages/Categories";
-import Deals from "./pages/Deals";  
+import Deals from "./pages/Deals"; 
+import Login from "./pages/Login";
+import Register from "./pages/Register"; 
 
 function App(){
   return(
@@ -31,6 +32,8 @@ function App(){
       <Route path="/order-success" element={<OrderSuccess />} />
       <Route path="/categories" element={<Categories />} />
       <Route path="/deals" element={<Deals />} />
+      <Route path="/login" element={<Login />} />
+      <Route path="/register" element={<Register />} />
     </Routes>
     </BrowserRouter>
   );

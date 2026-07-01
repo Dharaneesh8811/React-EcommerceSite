@@ -8,6 +8,7 @@ function Home() {
   return (
     <>
     <section className="hero">
+      <div className="hero-text">
 
       <div className="hero-left">
 
@@ -58,6 +59,7 @@ function Home() {
             </div>
           </div>
         </div>
+      </div>
       </div>
       <div className="hero-right hero-image">
         <img
